@@ -1,8 +1,8 @@
 # my-first-repository
 
-### My name is planeta 5
+### My name is planeta
 
-![my photo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F692639617667044619%2F&psig=AOvVaw0jK-kU3cCqVK_AB66KEV9l&ust=1700833326125000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjlnJag2oIDFQAAAAAdAAAAABAK)
+![my photo](https://i.pinimg.com/originals/83/5f/a6/835fa6fd204a086f745408e734cd9d8d.jpg)
 
 
 **I'm javascript developer.**
